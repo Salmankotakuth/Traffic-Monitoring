@@ -38,16 +38,6 @@ cd ultralytics/yolo/v8/detect
 
 - Run the code with mentioned command below.
 
-- For yolov8 object detection + Tracking
-```
-python predict.py model=yolov8l.pt source="test3.mp4" show=True
-```
-- For yolov8 object detection + Tracking + Vehicle Counting
-- Download the updated predict.py file from the Google Drive and place it into ultralytics/yolo/v8/detect folder 
-- Google Drive Link
-```
-https://drive.google.com/drive/folders/1awlzTGHBBAn_2pKCkLFADMd1EN_rJETW?usp=sharing
-```
 - For yolov8 object detection + Tracking + Vehicle Counting
 ```
 python predict.py model=yolov8l.pt source="test3.mp4" show=True
