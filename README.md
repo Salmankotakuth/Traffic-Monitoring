@@ -46,11 +46,8 @@ python predict.py model=yolov8l.pt source="Highway_Traffic.mp4" show=True
 ### RESULTS
 
 #### Vehicles Detection, Tracking and Counting 
-![](./figure/figure1.png)
+![](./figure1.png)
 
-#### Vehicles Detection, Tracking and Counting
-
-![](./figure/figure3.png)
 
 ### Watch the Complete Step by Step Explanation
 
